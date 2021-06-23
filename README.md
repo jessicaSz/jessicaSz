@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Jessi
 #### I am a professional game developer.
 
-I would love to become an iOS developer one day!
-
 Skills: Unity, C#, C++, Git, Swift, SwiftUI
 
 - 🔭 I’m currently working on The Lightbringer
