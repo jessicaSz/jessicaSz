@@ -1,10 +1,9 @@
 ### Hi there 👋, my name is Jessi
 #### I am a professional game developer.
 
-Skills: Unity, C#, C++, Git, Swift, SwiftUI
+Skills: Unity, C#, C++, Git
 
-- 🔭 I’m currently working on The Lightbringer
-- 🌱 I’m currently learning Swift and SwiftUI 
+- 🔭 I’m currently working on Cubes and Whales
 - ⚡ Fun fact: I love cats 
 
 
